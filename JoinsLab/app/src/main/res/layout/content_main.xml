@@ -21,22 +21,22 @@
 
     <Button
         android:id="@+id/buttonToAdd"
-        android:text="Add Data"
+        android:text="ADD DATA"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <Button
         android:id="@+id/buttonToSame"
-        android:text="Employees Working At The Same Company"
+        android:text="EMPLOYEES WORKING AT THE SAME COMPANY"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <Button
         android:id="@+id/buttonToBoston"
-        android:text="Companies in Boston"
+        android:text="COMPANIES IN BOSTON"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <Button
         android:id="@+id/buttonToSalary"
-        android:text="Company with the highest salary"
+        android:text="COMPANY WITH THE HIGHEST SALARY"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>
@@ -47,7 +47,6 @@
     android:layout_below="@id/buttonLayout">
 
     <TextView
-        android:text="HELLO WORLD"
         android:id="@+id/aTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
